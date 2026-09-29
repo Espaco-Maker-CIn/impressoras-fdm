@@ -6,18 +6,13 @@ Se você não sabe por onde começar, use o índice abaixo.
 ## Impressoras 3D (kit Klipper + Orbiter)
 
 Todas as impressoras usam o mesmo kit de upgrade. Manuais e
-configurações de cada máquina estão em [printer](printer).
+configurações de cada máquina estão em [printer](printers).
 
-- [Manual de revitalização (PDF)](printer/manual-revitalizacao.pdf)
-- [Manual de instalação do printer.cfg](printer/manual-instalacao-cfg.md)
-- [Configuração de cada impressora](printer/config)
+- [Manual de revitalização (PDF)](printers/manual-revitalizacao.pdf)
+- [Manual de instalação do printer.cfg](printers/manual-instalacao-cfg.md)
+- [Configuração de cada impressora](printers/configs)
 
-## Ferramentas
+## Adaptações 3D
 
-Manuais de uso e segurança de cada ferramenta:
-[ferramentas](ferramentas)
-
-## Projetos 3D
-
-Instruções e modelos dos projetos:
-[projetos-3d](projetos-3d)
+Adaptações que foram feitas para impressoras:
+[adaptacoes-3d](adaptacoes-3d)

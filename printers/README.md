@@ -9,13 +9,12 @@
 
 | Etiqueta | Modelo | Arquivo de configuração | Observações |
 |---|---|---|---|
-| ender-3-v2-00 | Ender 3 V2 | [config/ender-3-v2-00.cfg](config/ender-3-v2-00.cfg) | |
-| ender-3-v2-01 | Ender 3 V2 | [config/ender-3-v2-01.cfg](config/ender-3-v2-01.cfg) | |
-| ender-3-v2-neo-00 | Ender 3 V2 Neo | [config/ender-3-v2-neo-00.cfg](config/ender-3-v2-neo-00.cfg) | |
-| ender-3-v2-neo-01 | Ender 3 V2 Neo | [config/ender-3-v2-neo-01.cfg](config/ender-3-v2-neo-01.cfg) | |
-| ender-7 | Ender 7 | [config/ender-7.cfg](config/ender-7.cfg) | |
-| ender-5 | Ender 5 | [config/ender-5.cfg](config/ender-5.cfg) | |
-| desconhecida-01 | (a identificar) | [config/desconhecida-01.cfg](config/desconhecida-01.cfg) | Descobrir o modelo e renomear |
+| ender-3-v2-00 | Ender 3 V2 | [configs/ender-3-v2-00.cfg](configs/ender-3-v2-00.cfg) | |
+| ender-3-v2-01 | Ender 3 V2 | [configs/ender-3-v2-01.cfg](configs/ender-3-v2-01.cfg) | |
+| ender-3-v2-neo-00 | Ender 3 V2 Neo | [configs/ender-3-v2-neo-00.cfg](configs/ender-3-v2-neo-00.cfg) | |
+| ender-3-v2-neo-01 | Ender 3 V2 Neo | [configs/ender-3-v2-neo-01.cfg](configs/ender-3-v2-neo-01.cfg) | |
+| ender-7 | Ender 7 | [configs/ender-7.cfg](configs/ender-7.cfg) | |
+| ender-5 | Ender 5 | [configs/ender-5.cfg](configs/ender-5.cfg) | |
 
 ## Regras para o printer.cfg
 
